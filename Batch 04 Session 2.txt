@@ -1,0 +1,15 @@
+java -version
+To check the current version of Java
+
+
+
+Download Java 
+
+https://www.oracle.com/java/technologies/downloads/#java11-windows
+
+User Id -saurabhkandhway91@gmail.com
+Password- Test@1234
+
+
+Eclipse Download
+https://www.eclipse.org/downloads/
